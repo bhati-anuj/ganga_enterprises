@@ -82,7 +82,8 @@ export function Footer() {
               <p className="text-muted-foreground">Pradhan Market, Birondi, Sec-Pi, Greater Noida</p>
               <p className="text-muted-foreground">Rajeev Tyagi (Director): 7037531679</p>
               <p className="text-muted-foreground">Ritesh Kumar (Manager): 8447081635</p>
-              <p className="text-muted-foreground">Email: info@gangaenterprises.com</p>
+              <p className="text-muted-foreground">Sachin Choudhary (Dy.director): 9813754031</p>
+              <p className="text-muted-foreground">Email: gangaenterprises2019@gmail.com</p>
             </address>
           </div>
         </div>

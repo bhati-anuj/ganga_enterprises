@@ -118,13 +118,14 @@ export function Contact() {
                     <p className="font-medium">Phone Numbers</p>
                     <p className="text-sm text-muted-foreground">Rajeev Tyagi (Director): 7037531679</p>
                     <p className="text-sm text-muted-foreground">Ritesh Kumar (Manager): 8447081635</p>
+                    <p className="text-sm text-muted-foreground">Sachin Choudhary (Dy.director): 9813754031</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
                   <Mail className="mt-1 h-5 w-5 text-primary" />
                   <div>
                     <p className="font-medium">Email</p>
-                    <p className="text-sm text-muted-foreground">info@gangaenterprises.com</p>
+                    <p className="text-sm text-muted-foreground">gangaenterprises2019@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
